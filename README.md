@@ -22,4 +22,7 @@ need help option :<br>
 
 # all the process for admin side by using screenshots
 login page :<br>
+![Screenshot (72)](https://github.com/sayan39/travelapp/assets/118959230/0528f002-99bd-4337-bfb0-780776a71116)
+dashboard page : <br>
+![Screenshot (73)](https://github.com/sayan39/travelapp/assets/118959230/84949cd7-d1ca-44a4-b4e5-db6f52a3f528)
 
