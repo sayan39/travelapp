@@ -1,4 +1,4 @@
-# travelapp
+![Screenshot (79)](https://github.com/sayan39/travelapp/assets/118959230/5bc1f607-37bc-4025-95d7-688b28158e6d)# travelapp
  Search and Book your favorate places....!!!
 ## Tech Stack
 
@@ -25,4 +25,28 @@ login page :<br>
 ![Screenshot (72)](https://github.com/sayan39/travelapp/assets/118959230/0528f002-99bd-4337-bfb0-780776a71116)
 dashboard page : <br>
 ![Screenshot (73)](https://github.com/sayan39/travelapp/assets/118959230/84949cd7-d1ca-44a4-b4e5-db6f52a3f528)
+create package page :<br>
+![Screenshot (74)](https://github.com/sayan39/travelapp/assets/118959230/4dcd330a-a0ec-4d72-bc12-dcc495b71457)
+manage package page : <br>
+![Screenshot (75)](https://github.com/sayan39/travelapp/assets/118959230/de3d4731-77d9-4cf5-b10f-937679754b93)
+manage user page : <br>
+![Screenshot (76)](https://github.com/sayan39/travelapp/assets/118959230/329ff28b-9313-4bb9-86cd-263a9f1ca75a)
+manage issues page :<br>
+![Screenshot (77)](https://github.com/sayan39/travelapp/assets/118959230/aa663530-e898-4e89-99d6-29d6d8b12684)
+manage enquries page : <br>
+![Screenshot (78)](https://github.com/sayan39/travelapp/assets/118959230/7bfb071b-5706-4cb6-b094-20d328db901c)
+update page data :<br>
+![Screenshot (79)](https://github.com/sayan39/travelapp/assets/118959230/0da13eb7-7a13-4f0d-87b2-a61f9b31ba81)
+
+
+
+
+
+
+
+
+
+
+
+
 
