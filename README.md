@@ -1,4 +1,4 @@
-![Screenshot (79)](https://github.com/sayan39/travelapp/assets/118959230/5bc1f607-37bc-4025-95d7-688b28158e6d)# travelapp
+## travelapp
  Search and Book your favorate places....!!!
 ## Tech Stack
 
